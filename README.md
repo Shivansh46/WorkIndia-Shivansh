@@ -49,7 +49,5 @@ Details Page
 <h2 id="🥇-judgment-criteria">🥇 Judgment Criteria</h2>
 🖋️ Code Quality: Elegance in every line.
 🎨 UI & UX: Crafted with user-centric precision.
-<h2 id="🤝-support">🤝 Support & Queries</h2>
-Encountered a crossroad? Connect with us via the Meet link or simply raise an issue right here. We're all ears!
 
 <sub><sup>
